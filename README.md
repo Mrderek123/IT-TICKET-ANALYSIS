@@ -1,3 +1,7 @@
+## 📊 Dashboard Preview
+
+![IT Ticket Analysis Dashboard](image.png)
+
 📌 Project Overview
 
 This project analyzes IT support ticket data to evaluate service performance, resolution efficiency, and customer satisfaction. 
