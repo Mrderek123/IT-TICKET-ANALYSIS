@@ -2,61 +2,77 @@
 
 ![IT Ticket Analysis Dashboard](image.png)
 
-📌 Project Overview
+# IT Ticket Analysis using Excel
 
-This project analyzes IT support ticket data to evaluate service performance, resolution efficiency, and customer satisfaction. 
-The analysis was performed using Microsoft Excel, focusing on identifying trends, bottlenecks, and improvement opportunities in IT service operations.
+## 📌 Project Overview
+This project analyzes IT support ticket data to evaluate service performance, resolution efficiency, and customer satisfaction. The analysis is performed using Microsoft Excel to identify trends, bottlenecks, and improvement opportunities in IT service operations.
 
-🎯 Objectives
+---
 
--Analyze ticket volume and resolution patterns
--Evaluate average resolution time and satisfaction rates
--Identify performance gaps across categories and agents
--Provide data-driven insights for operational improvement
+## 🎯 Objectives
+- Analyze ticket volume across categories and priorities  
+- Evaluate average resolution time and service efficiency  
+- Assess customer satisfaction levels  
+- Identify performance gaps and improvement areas  
 
-🛠 Tools & Technologies
+---
 
--Microsoft Excel
--Pivot Tables
--Pivot Charts
--Conditional Formatting
--Excel Formulas
--PowerPoint (for presentation)
--Word (for documentation)
+## 🛠 Tools & Technologies
+- Microsoft Excel  
+  - Pivot Tables  
+  - Pivot Charts  
+  - Excel Formulas  
+  - Conditional Formatting  
+  - Dashboards  
+- PowerPoint (for presentation)  
+- Microsoft Word (for documentation)
 
-📂 Files Included
+---
 
--Excel file 26 nov.xlsm – Main analysis and dashboards
--PPT 26 nov.pptx – Project presentation
--Report 26 nov.docx – Detailed analysis report
+## 📂 Files Included
+- **Excel file 26 nov.xlsm** – Main analysis file and dashboards  
+- **PPT 26 nov.pptx** – Project presentation summarizing insights  
+- **Report 26 nov.docx** – Detailed analysis report  
 
-📊 Key Analysis Performed
+> ⚠️ Note: The Excel file is macro-enabled (.xlsm). Please enable macros to view full functionality.
 
--Ticket volume analysis by category and priority
--Average resolution time trends
--Customer satisfaction analysis
--Agent performance comparison
--Identification of high-impact issue types
+---
 
-🔍 Key Insights
+## 📊 Key Analysis Performed
+- Ticket volume analysis by category and priority  
+- Average resolution time trends  
+- Customer satisfaction analysis  
+- Agent and issue-type performance comparison  
 
--Certain ticket categories consistently show higher resolution times
--Satisfaction levels vary significantly across issue types
--Performance gaps indicate areas where process optimization is needed
+---
 
-📈 Outcome & Learnings
+## 🔍 Key Insights
+- Certain ticket categories consistently show higher resolution times  
+- Satisfaction levels vary across issue types and priorities  
+- Data highlights areas requiring process optimization  
 
--Improved understanding of IT service metrics
--Hands-on experience with Excel-based dashboards
--Practical exposure to real-world service analytics
+---
 
-🚀 Future Enhancements
+## 📈 Outcome & Learnings
+- Hands-on experience with Excel-based dashboards  
+- Improved understanding of IT service performance metrics  
+- Strengthened analytical and reporting skills  
 
--Automate data refresh
--Add SLA breach analysis
--Extend analysis using Power BI
+---
 
-👤 Author
+## 🚀 Future Enhancements
+- Automate data refresh  
+- Add SLA breach analysis  
+- Extend analysis using Power BI  
 
-Hritik Kumar
-Aspiring Data Analyst/ Business Analyst
+---
+
+## 👤 Author
+**Hritik Kumar**  
+Aspiring Data / Business Analyst
+
+
+
+
+
+
